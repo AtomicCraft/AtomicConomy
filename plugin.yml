@@ -1,3 +1,10 @@
 name: AtomicConomy
 version: 0.1
 main: com.atomiccraft.AtomicConomy
+
+commands:
+   money:
+      description: This is the /money command
+      usage: /money [player]
+      permission: AtomicConomy.money
+      permission-message: You don't have permission to perform a /money command!
