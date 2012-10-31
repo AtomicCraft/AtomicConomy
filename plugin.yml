@@ -8,3 +8,8 @@ commands:
       usage: /money [player]
       permission: AtomicConomy.money
       permission-message: You don't have permission to perform a /money command!
+   acon:
+      description: The /acon command
+      usage: /acon version
+      permission: AtomicConomy.acon
+      permission-message: You don't have permission to perform a /acon command!      
