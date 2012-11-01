@@ -6,6 +6,7 @@ public final class AtomicConomy extends JavaPlugin {
  
     @Override
     public void onEnable(){
+    	System.out.println("[AtomicConomy] Coded by IceteeMen and web32!");
     	System.out.println("[AtomicConomy] Plugin has been enabled!");
     }
  
